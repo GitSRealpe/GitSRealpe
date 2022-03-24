@@ -1,4 +1,4 @@
-### +Hello there 👋 <img src="https://github.com/GitSRealpe/GitSRealpe/blob/main/img/kenobi.png" width="50" /> <br> -General Kenobi! <img src="https://github.com/GitSRealpe/GitSRealpe/blob/main/img/grievous.png" width="50" />
+### +Hello there 👋 <img src="https://github.com/GitSRealpe/GitSRealpe/blob/main/img/kenobi.png?raw=true" width="50" /> <br> -General Kenobi! <img src="https://github.com/GitSRealpe/GitSRealpe/blob/main/img/grievous.png?raw=true" width="50" />
 
 Welcome to my GitHub profile, here you will find mostly ROS and Web development stuff for personal projects I work on.
 
