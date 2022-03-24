@@ -1,4 +1,8 @@
-### Hi there 👋
+### +Hello there 👋 <img src="https://github.com/GitSRealpe/GitSRealpe/blob/main/img/kenobi.png" width="50" /> <br> -General Kenobi! <img src="https://github.com/GitSRealpe/GitSRealpe/blob/main/img/grievous.png" width="50" />
+
+Welcome to my GitHub profile, here you will find mostly ROS and Web development stuff for personal projects I work on.
+
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSRealpe)
 
 <!--
 **GitSRealpe/GitSRealpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
