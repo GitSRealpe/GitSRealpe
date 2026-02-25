@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile, here you will find mostly ROS and Web development stuff for personal projects I work on.
 
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSRealpe&theme=radical&show_icons=true&count_private=true&hide_rank=true)
-
+![Sebastian's GitHub stats](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **GitSRealpe/GitSRealpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
