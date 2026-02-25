@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile, here you will find mostly ROS and Web development stuff for personal projects I work on.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ros,opencv,linux,docker,threejs,blender" />
+  </a>
+</p>
 ![Sebastian's GitHub stats](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **GitSRealpe/GitSRealpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
