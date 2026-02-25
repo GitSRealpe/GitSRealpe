@@ -3,11 +3,23 @@
 Welcome to my GitHub profile, here you will find mostly ROS and Web development stuff for personal projects I work on.
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/GitSRealpe">
     <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ros,opencv,linux,docker,threejs,blender" />
   </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/GitSRealpe/GitSRealpe/main/profile-3d-contrib/profile-green-animate.svg" width=80%" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/GitSRealpe/GitSRealpe/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg"/>
+  </a>
+  
+  <a>
+    <img src="https://raw.githubusercontent.com/GitSRealpe/GitSRealpe/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg"/>
+    <img src="https://raw.githubusercontent.com/GitSRealpe/GitSRealpe/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg"/>
+    <img src="https://raw.githubusercontent.com/GitSRealpe/GitSRealpe/main/profile-summary-card-output/noctis_minimus/3-stats.svg"/>
+  </a>
 </p>
-![Sebastian's GitHub stats](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **GitSRealpe/GitSRealpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
